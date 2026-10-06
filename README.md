@@ -27,8 +27,8 @@ jupyter notebook Customer_Churn.ipynb
 ```
 
 ## Files
-- `Customer_Churn.ipynb`: analysis and modelling
 - `Churn_Modelling.csv`: dataset
+- `Customer_Churn.ipynb`: analysis and modelling
 
 ## Next steps
 Class weighting or SMOTE, threshold tuning, hyperparameter search, and feature-importance analysis.
